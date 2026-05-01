@@ -2,7 +2,7 @@
 File: Lesson 5.1 - Introduction to Arrays
 Author: Stephen Li
 Date Created: April 20, 2026
-Date Last Modified: April 27, 2026
+Date Last Modified: May 1, 2026
 */
 
 public class PracticeProblem {
